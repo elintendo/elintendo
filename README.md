@@ -1,12 +1,1 @@
-*The way a crow*  
-*Shook down on me*    
-*The dust of snow*  
-*From a hemlock tree*  
-
-
-*Has given my heart*  
-*A change of mood*  
-*And saved some part*  
-*Of a day I had rued.*  
-
-![alt text](gif.gif)
+<img src="gif.gif" alt="drawing" width="800"/>
