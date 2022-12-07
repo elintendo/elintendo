@@ -1,1 +1,1 @@
-<img src="gif.gif" alt="drawing" width="800"/>
+![alt text](gif.gif)
