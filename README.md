@@ -1,1 +1,3 @@
-![alt text](gif.gif)
+- Innopolis University, 2nd bachelor
+- Love learning data structures & algorithms
+- Love GNU/Linux
