@@ -1,3 +1,3 @@
 - Innopolis University, 2nd bachelor
-- Love learning data structures & algorithms
-- Love GNU/Linux
+- Have a passion for data structures & algorithms
+- Enamored of GNU/Linux
